@@ -3,4 +3,4 @@
 This is a basic hello worl program with Rust.
 
 
-## [Patika Adresim](https://app.patika.dev/fuujazz)
+## [My Patika Link](https://app.patika.dev/fuujazz)
